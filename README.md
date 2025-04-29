@@ -1,7 +1,7 @@
 # 🚴‍♂️ Bike Sales Data Analysis
 
 ## 📌 Objective
-Analyze customer demographics and lifestyle factors to understand what influences bike purchasing behavior.
+Analyse customer demographics and lifestyle factors to understand what influences bike purchasing behavior.
 
 ## 📊 Dataset
 The dataset includes records of individuals with the following features:
@@ -18,7 +18,7 @@ The dataset includes records of individuals with the following features:
 ## 📈 Key Tasks Performed
 - Cleaned and prepared raw data for analysis
 - Built a pivot table to explore purchase trends by demographic and lifestyle variables
-- Created a dynamic dashboard for visualizing insights and allowing user interaction
+- Created a dynamic dashboard for visualising insights and allowing user interaction
 
 ## 📁 Project Structure
 - `bike_buyers` – Main dataset
