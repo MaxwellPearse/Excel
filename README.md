@@ -12,7 +12,7 @@ The dataset includes records of individuals with the following features:
 ## 🛠️ Tools Used
 - **Excel**
   - Data cleaning and transformation
-  - Pivot tables for summarizing trends
+  - Pivot tables for summarising trends
   - Interactive dashboard with slicers for filtering by category (e.g., Region, Commute Distance)
 
 ## 📈 Key Tasks Performed
